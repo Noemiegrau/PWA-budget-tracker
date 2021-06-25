@@ -10,7 +10,7 @@
 
 ## **_Description of the project_**
 
-This project is a Progressive Web Application for an upcoming three-day food event. The app loads quickly, offers offline functionality and allow users to download the application as if it were a phone app.
+This project is a Progressive Web Application for a budget tracker app. The app loads quickly, offers offline functionality and allow users to download the application as if it were a phone app. Users can track their budget by adding or deleting funds.
 
 ## **_Technologies used_**
 Project is created using:
